@@ -1,6 +1,6 @@
 <h1>acl_notepad.xml</h1>
 <pre>
-@rautaplop
+rautaplop
 github.com/rautaplop
 </pre>
 
