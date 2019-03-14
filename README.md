@@ -1,10 +1,13 @@
-<h1>acl_notepad.xml</h1>
-<pre>
+# acl_notepad.xml
 rautaplop
-github.com/rautaplop
-</pre>
 
-<h2>INFORMATION</h2>
-<pre>
+github.com/rautaplop
+
+
+## INFORMATION
+```
 ACL user defined languages for Notepad++
-</pre>
+```
+
+## HOW TO INSTALL
+[Link to docs.notepad-plus-plus.org](http://docs.notepad-plus-plus.org/index.php/User_Defined_Language_Files#How_to_install_user_defined_language_files)
