@@ -6,7 +6,7 @@ github.com/rautaplop
 
 ## INFORMATION
 ```
-ACL user defined languages for Notepad++
+ACL user defined language for Notepad++
 ```
 
 ## HOW TO INSTALL
