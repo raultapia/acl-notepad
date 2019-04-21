@@ -4,7 +4,7 @@ rautaplop
 github.com/rautaplop
 
 
-## INFORMATION
+## DESCRIPTION
 ```
 ACL user defined language for Notepad++
 ```
