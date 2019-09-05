@@ -1,13 +1,15 @@
-# acl_notepad.xml
-rautaplop
+# acl_notepad
+[![Latest Version](https://img.shields.io/github/release/rautaplop/acl_notepad)](https://github.com/rautaplop/graphplot/releases)
+[![License       ](https://img.shields.io/github/license/rautaplop/acl_notepad)](LICENSE)
+[![Size          ](https://img.shields.io/github/repo-size/rautaplop/acl_notepad)](README.md)
 
-github.com/rautaplop
-
-
-## DESCRIPTION
-```
 ACL user defined language for Notepad++
-```
 
-## HOW TO INSTALL
+## 🗃 Dependencies
+* [name](url)
+
+## ⚙️ Install
 [Link to docs.notepad-plus-plus.org](http://docs.notepad-plus-plus.org/index.php/User_Defined_Language_Files#How_to_install_user_defined_language_files)
+
+## 📝 Copyright and license
+Copyright © 2019, [rautaplop](https://github.com/rautaplop). Released under the [MIT License](LICENSE).
