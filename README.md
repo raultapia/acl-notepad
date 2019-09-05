@@ -3,7 +3,7 @@
 [![License       ](https://img.shields.io/github/license/rautaplop/acl_notepad)](LICENSE)
 [![Size          ](https://img.shields.io/github/repo-size/rautaplop/acl_notepad)](README.md)
 
-ACL user defined language for Notepad++
+ACL user defined language for Notepad++.
 
 ## 🗃 Dependencies
 * [Notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
