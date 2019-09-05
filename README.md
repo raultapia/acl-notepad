@@ -1,5 +1,5 @@
 # acl_notepad
-[![Latest Version](https://img.shields.io/github/release/rautaplop/acl_notepad)](https://github.com/rautaplop/graphplot/releases)
+[![Latest Version](https://img.shields.io/github/release/rautaplop/acl_notepad)](https://github.com/rautaplop/acl_notepad/releases)
 [![License       ](https://img.shields.io/github/license/rautaplop/acl_notepad)](LICENSE)
 [![Size          ](https://img.shields.io/github/repo-size/rautaplop/acl_notepad)](README.md)
 
