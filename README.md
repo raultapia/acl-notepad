@@ -6,7 +6,7 @@
 ACL user defined language for Notepad++
 
 ## 🗃 Dependencies
-* [name](url)
+* [Notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
 
 ## ⚙️ Install
 [Link to docs.notepad-plus-plus.org](http://docs.notepad-plus-plus.org/index.php/User_Defined_Language_Files#How_to_install_user_defined_language_files)
