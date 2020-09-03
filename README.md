@@ -1,7 +1,7 @@
-# acl_notepad
-[![Latest Version](https://img.shields.io/github/release/rautaplop/acl_notepad)](https://github.com/rautaplop/acl_notepad/releases)
-[![License       ](https://img.shields.io/github/license/rautaplop/acl_notepad)](LICENSE)
-[![Size          ](https://img.shields.io/github/repo-size/rautaplop/acl_notepad)](README.md)
+# acl-notepad
+[![Latest Version](https://img.shields.io/github/release/raultapia/acl_notepad)](https://github.com/raultapia/acl_notepad/releases)
+[![License       ](https://img.shields.io/github/license/raultapia/acl_notepad)](LICENSE)
+[![Size          ](https://img.shields.io/github/repo-size/raultapia/acl_notepad)](README.md)
 
 ACL user defined language for Notepad++.
 
@@ -12,4 +12,4 @@ ACL user defined language for Notepad++.
 [Link to docs.notepad-plus-plus.org](http://docs.notepad-plus-plus.org/index.php/User_Defined_Language_Files#How_to_install_user_defined_language_files)
 
 ## 📝 Copyright and license
-Copyright © 2019, [rautaplop](https://github.com/rautaplop). Released under the [MIT License](LICENSE).
+Copyright © 2019, [raultapia](https://github.com/raultapia). Released under the [MIT License](LICENSE).
