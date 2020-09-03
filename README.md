@@ -1,7 +1,7 @@
 # acl-notepad
-[![Latest Version](https://img.shields.io/github/release/raultapia/acl_notepad)](https://github.com/raultapia/acl_notepad/releases)
-[![License       ](https://img.shields.io/github/license/raultapia/acl_notepad)](LICENSE)
-[![Size          ](https://img.shields.io/github/repo-size/raultapia/acl_notepad)](README.md)
+[![Latest Version](https://img.shields.io/github/release/raultapia/acl-notepad)](https://github.com/raultapia/acl-notepad/releases)
+[![License       ](https://img.shields.io/github/license/raultapia/acl-notepad)](LICENSE)
+[![Size          ](https://img.shields.io/github/repo-size/raultapia/acl-notepad)](README.md)
 
 ACL user defined language for Notepad++.
 
